@@ -17,3 +17,4 @@ The use of Vanilla CSS and HTML5 for simple project, and the progress towards us
 
 ## Acknowledgments
 Okeke Josiah (My BootCamp Mentor)
+Images used from: (www.unsplash.com)
